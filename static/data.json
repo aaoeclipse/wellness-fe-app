@@ -1,0 +1,164 @@
+{
+	"Monday": {
+		"Food": {
+			"258": "APPLEBEE'S, coleslaw",
+			"356": "McDONALD'S, McCHICKEN Sandwich",
+			"460": "Lamb, braised, cooked, liver, variety meats and by-products",
+			"491": "OLIVE GARDEN, chicken parmigiana without pasta",
+			"797": "Apricots, solids and liquids, with skin, water pack, canned",
+			"846": "Sausage, with cheddar cheese, sticks, pork and beef, summer",
+			"1128": "Beans, with beef, canned, baked"
+		},
+		"Quantity (g)": {
+			"258": 93.0,
+			"356": 150.0,
+			"460": 150.0,
+			"491": 121.0,
+			"797": 112.99999999999999,
+			"846": 150.0,
+			"1128": 150.0
+		}
+	},
+	"Tuesday": {
+		"Food": {
+			"22": "Seaweed, raw, laver",
+			"256": "Babyfood, strained, without ascorbic acid, plums with tapioca, fruit",
+			"387": "Fish, raw, bluefish",
+			"464": "Cookies, lower fat, regular, commercially prepared, chocolate chip",
+			"722": "Danish pastry, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry), fruit",
+			"723": "Ice cream, added peanuts and chocolate sauce, cone, no sugar added, lowfat",
+			"815": "Dulce de Leche",
+			"831": "Mayonnaise, low calorie or diet, low sodium",
+			"1063": "Fast Foods, meat and skin with breading, Drumstick, Fried Chicken",
+			"1130": "Beef, broiled, cooked, choice, trimmed to 1/8\" fat, separable lean and fat, steak, top sirloin",
+			"1155": "Babyfood, strained, turkey, meat"
+		},
+		"Quantity (g)": {
+			"22": 131.0,
+			"256": 150.0,
+			"387": 106.0,
+			"464": 150.0,
+			"722": 150.0,
+			"723": 150.0,
+			"815": 141.0,
+			"831": 150.0,
+			"1063": 150.0,
+			"1130": 150.0,
+			"1155": 150.0
+		}
+	},
+	"Wednesday": {
+		"Food": {
+			"370": "Beverages, prepared with tap water, brewed, black, tea",
+			"428": "Fast foods, regular patty; with condiments, hamburger; single",
+			"564": "Beef, raw, mechanically separated beef, variety meats and by-products",
+			"724": "Beans, solids and liquids, no salt added, canned, yellow, snap",
+			"752": "Cowpeas, without salt, boiled, cooked, mature seeds, common (blackeyes, crowder, southern)",
+			"1128": "Gelatin desserts, prepared with water, dry mix",
+			"1131": "Fish, moist heat, cooked, wild, coho, salmon",
+			"1219": "Molasses"
+		},
+		"Quantity (g)": {
+			"370": 150.0,
+			"428": 150.0,
+			"564": 150.0,
+			"724": 150.0,
+			"752": 92.0,
+			"1128": 78.0,
+			"1131": 150.0,
+			"1219": 93.0
+		}
+	},
+	"Thursday": {
+		"Food": {
+			"21": "Snacks, salted, pita chips",
+			"345": "Margarine-like, with salt, approximately 37% fat, unspecified oils, vegetable oil spread",
+			"437": "Beef, pan-broiled, patty cooked, 70% lean meat / 30% fat, ground",
+			"780": "CAMPBELL'S Red and White - Microwaveable Bowls, Chicken Noodle Soup",
+			"840": "Beef, broiled, cooked, choice, trimmed to 0\" fat, separable lean only, steak, top sirloin",
+			"1128": "Chicken, flour, fried, cooked, meat and skin, dark meat, broilers or fryers",
+			"1139": "CAMPBELL'S Red and White, condensed, Chicken Alphabet Soup",
+			"1240": "Fish, dry heat, cooked, Atlantic, herring"
+		},
+		"Quantity (g)": {
+			"21": 150.0,
+			"345": 150.0,
+			"437": 150.0,
+			"780": 150.0,
+			"840": 93.0,
+			"1128": 11.0,
+			"1139": 78.0,
+			"1240": 150.0
+		}
+	},
+	"Friday": {
+		"Food": {
+			"63": "Cream, fat free, half and half",
+			"452": "Bologna, meat and poultry",
+			"524": "Chicken, roasted, cooked, meat only, thigh, broilers or fryers",
+			"789": "Whey, fluid, sweet",
+			"1027": "Hummus, home prepared",
+			"1076": "Beef, raw, choice, trimmed to 0\" fat, separable lean and fat, lip off, boneless, top loin steak, loin",
+			"1143": "Pork, raw, separable lean and fat, boneless, Shoulder petite tender",
+			"1166": "Chicken, flour, fried, cooked, meat and skin, light meat, broilers or fryers"
+		},
+		"Quantity (g)": {
+			"63": 148.0,
+			"452": 150.0,
+			"524": 150.0,
+			"789": 150.0,
+			"1027": 150.0,
+			"1076": 20.0,
+			"1143": 150.0,
+			"1166": 19.0
+		}
+	},
+	"Saturday": {
+		"Food": {
+			"259": "Pork, broiled, cooked, separable lean only, bone-in, center rib (chops), loin, fresh",
+			"622": "Oil, bowhead (Alaska Native), whale",
+			"674": "Asparagus, drained, boiled, cooked",
+			"820": "Mammy-apple, raw, (mamey)",
+			"823": "Beef, braised, cooked, all grades, trimmed to 0\" fat, separable lean and fat, boneless, under blade steak, chuck",
+			"826": "Grape juice, without added ascorbic acid, unsweetened, canned or bottled",
+			"1039": "Salad dressing, without salt, soybean oil, mayonnaise",
+			"1122": "CRACKER BARREL, farm raised catfish platter",
+			"1128": "Veal, breaded, pan-fried, cooked, separable lean only, leg (top round)",
+			"1129": "Potatoes, without salt, skin, baked"
+		},
+		"Quantity (g)": {
+			"259": 150.0,
+			"622": 150.0,
+			"674": 119.0,
+			"820": 150.0,
+			"823": 150.0,
+			"826": 22.0,
+			"1039": 150.0,
+			"1122": 31.0,
+			"1128": 150.0,
+			"1129": 150.0
+		}
+	},
+	"Sunday": {
+		"Food": {
+			"338": "Corn, drained solids, whole kernel, canned, yellow, sweet",
+			"752": "Rhubarb, with sugar, cooked, frozen",
+			"773": "Snacks, buckwheat, brown rice, rice cakes",
+			"790": "McDONALD'S, Hot Mustard Sauce",
+			"832": "Alcoholic beverage, BUDWEISER SELECT, light, beer",
+			"1125": "Goat, raw",
+			"1126": "Cheese, queso blanco, white",
+			"1236": "Chiton, gumboots (Alaska Native), leathery"
+		},
+		"Quantity (g)": {
+			"338": 150.0,
+			"752": 150.0,
+			"773": 86.0,
+			"790": 150.0,
+			"832": 93.0,
+			"1125": 112.00000000000001,
+			"1126": 150.0,
+			"1236": 150.0
+		}
+	}
+}
