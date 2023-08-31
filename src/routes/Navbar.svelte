@@ -5,7 +5,6 @@
     <nav class="">
         <ul class="gap-4 hidden md:flex">
             <li><a href="/">Home</a></li>
-            <li><a href="/login">Login</a></li>
             <li><a href="/dashboard">Dashboard</a></li>
         </ul>
     </nav>
